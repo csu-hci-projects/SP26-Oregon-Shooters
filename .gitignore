@@ -5,3 +5,8 @@ Build/
 Builds/
 Logs/
 UserSettings/
+.vs/
+.utmp/
+Assignment2_BurstDebugInformation_DoNotShip/
+*.csproj
+*.sln
