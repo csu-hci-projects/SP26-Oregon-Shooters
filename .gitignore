@@ -1,3 +1,5 @@
+# This is a gitignore file. Any items in this file will be "ignored" by git.
+
 Library/
 Temp/
 Obj/
