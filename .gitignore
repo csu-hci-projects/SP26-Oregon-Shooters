@@ -1,0 +1,14 @@
+# This is a gitignore file. Any items in this file will be "ignored" by git.
+
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+UserSettings/
+.vs/
+.utmp/
+Assignment2_BurstDebugInformation_DoNotShip/
+*.csproj
+*.sln
